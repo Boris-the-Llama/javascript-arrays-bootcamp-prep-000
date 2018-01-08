@@ -1,1 +1,1 @@
-var chocolate
+var chocolateBars = ['']
